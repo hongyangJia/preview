@@ -1,2 +1,2 @@
 # preview
-www.datura.club
+www.mnow.top
