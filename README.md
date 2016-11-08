@@ -1,2 +1,2 @@
 # preview
-datura.club
+www.datura.club
